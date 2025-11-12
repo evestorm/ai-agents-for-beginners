@@ -8,6 +8,7 @@ autogen-agentchat
 autogen-core
 autogen-ext
 autogen-ext[azure]
+autogen-ext[openai]
 
 # Azure AI services
 azure-ai-inference
